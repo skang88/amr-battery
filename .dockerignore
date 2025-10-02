@@ -1,0 +1,9 @@
+# 로컬에 설치된 의존성 폴더는 이미지에 포함하지 않습니다.
+node_modules
+
+# npm 디버그 로그 파일
+npm-debug.log
+
+# Docker 관련 파일
+Dockerfile
+.dockerignore
